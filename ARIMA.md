@@ -19,4 +19,6 @@
 - Diagnostic checking
 
 Reference:\
-[ARIMA model](https://people.duke.edu/~rnau/411arim.htm)
+[Stationarity Check](https://machinelearningmastery.com/time-series-data-stationary-python/)\
+[ARIMA model](https://people.duke.edu/~rnau/411arim.htm)\
+[Auto ARIMA](https://www.analyticsvidhya.com/blog/2018/08/auto-arima-time-series-modeling-python-r/)
